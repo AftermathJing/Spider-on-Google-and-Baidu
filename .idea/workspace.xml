@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c16bb030-acc4-4dcb-a5d3-f68367091133" name="Changes" comment="update .gitignore" />
+    <list default="true" id="c16bb030-acc4-4dcb-a5d3-f68367091133" name="Changes" comment="update .gitignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -72,6 +76,7 @@
       <workItem from="1698586615331" duration="1361000" />
       <workItem from="1698587992869" duration="415000" />
       <workItem from="1698588412355" duration="1535000" />
+      <workItem from="1698591046242" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="add some potholed_road_surface pictures from Google">
       <created>1698583793878</created>
@@ -129,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698587814482</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update .gitignore">
+      <created>1698591128272</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698591128272</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
