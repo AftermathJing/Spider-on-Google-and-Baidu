@@ -183,7 +183,7 @@ class MyThread(threading.Thread):
 
 try:
     thread_potholed = MyThread('potholed road surface', 1000)
-    # thread_normal = MyThread('normal road surface', 2000)
+    # thread_normal = MyThread('smooth road surface', 2000)
     thread_potholed.start()
     # thread_normal.start()
 except Exception:
@@ -206,3 +206,7 @@ except Exception:
 # //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/div[3]/div[1]/a/img[1]
 # //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/div[3]/div[1]/a/img
 # //*[@id="islrg"]/div[1]/div[54]/div[22]/a[1]/div[1]/img
+# //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/c-wiz/div/div/div/div/div[3]/div[1]/div[1]/a[1]/div[1]/img
+# //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/c-wiz/div/div/div/div/div[3]/div[2]/div[1]/a[1]/div[1]/img
+# //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/c-wiz/div/div/div/div/div[3]/div[2]/div[4]/a[1]/div[1]/img
+# //*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/c-wiz/div/div/div/div/div[3]/div[1]/div[4]/a[1]/div[1]/img
